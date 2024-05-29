@@ -128,7 +128,7 @@ psql -U yourusername -d yourdatabase -a -f database.sql
 
 Start the development server:
 ```bash
-npm dev 
+npm run dev 
 ```
 Or the normal server :
 ```bash
